@@ -1,0 +1,11 @@
+Birth Dates:
+12/05/1990
+23/09/1985
+
+Phone Numbers:
+123-456-7890
+987-654-3210
+
+Email Addresses:
+john.doe@example.com
+jane.smith@example.com

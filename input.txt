@@ -1,0 +1,9 @@
+Name: John Doe
+Birthdate: 12/05/1990
+Phone: 123-456-7890
+Email: john.doe@example.com
+
+Name: Jane Smith
+Birthdate: 23/09/1985
+Phone: 987-654-3210
+Email: jane.smith@example.com
